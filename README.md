@@ -25,11 +25,11 @@ Feel free to connect, collaborate, or just say hi!
 ---
 
 <!-- Optional: Add a stats or GitHub streak section -->
-
+<!--
 ## 📊 GitHub Stats
 
 ![Abir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
+-->
   
 
 <!---
