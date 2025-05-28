@@ -29,6 +29,11 @@ Feel free to connect, collaborate, or just say hi!
 ## 📊 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirsinha5116&show_icons=true&theme=radical)](https://github.com/abirsinha5116/github-readme-stats)
+
+## 日本 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abirsinha5116)](https://github.com/abirsinha5116/github-readme-stats)
+
   
 
 <!---
