@@ -28,7 +28,7 @@ Feel free to connect, collaborate, or just say hi!
 
 ## 📊 GitHub Stats
 
-![Abir's GitHub Stats](https://github.com/abirsinha5116)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirsinha5116)](https://github.com/abirsinha5116/github-readme-stats)
   
 
 <!---
