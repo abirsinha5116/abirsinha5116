@@ -44,9 +44,7 @@ Feel free to connect, collaborate, or just say hi!
 
 ## 日本 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abirsinha5116&show_icons=true&theme=radical&layout=compact)](https://github.com/abirsinha5116/github-readme-stats)
-
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abirsinha5116&layout=pie)](https://github.com/abirsinha5116/github-readme-stats)  
 
 <!---
 abirsinha5116/abirsinha5116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
