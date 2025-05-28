@@ -48,11 +48,11 @@ Feel free to connect, collaborate, or just say hi!
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abirsinha5116&layout=pie&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abirsinha5116&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abirsinha5116&layout=pie"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abirsinha5116&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=abirsinha5116&show_icons=true" />
